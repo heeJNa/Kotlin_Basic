@@ -99,7 +99,7 @@ fun main() {
                     // getName()위 Annotation이 @Nullable일 경우 컴파일 오류발생 @NotNull이면 정상 수행
                 }
 
-                 fun startsWithA(str: String): Boolean{
+                 fun startsWithA(str: String): Boolean{ // null이 허용되지 않음
                     return str.startWith("A")
                  }
 
