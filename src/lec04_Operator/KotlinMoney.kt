@@ -1,4 +1,4 @@
-package lec04
+package lec04_Operator
 
 data class KotlinMoney(
     val amount: Long

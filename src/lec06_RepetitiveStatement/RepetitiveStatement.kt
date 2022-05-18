@@ -1,4 +1,4 @@
-package lec06
+package lec06_RepetitiveStatement
 
 fun main(){
     val numbers = listOf(1L,2L,3L) // 컬렉션 생성

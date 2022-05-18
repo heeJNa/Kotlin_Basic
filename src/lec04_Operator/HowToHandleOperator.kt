@@ -1,7 +1,7 @@
 package lecture
 
-import lec04.JavaMoney
-import lec04.KotlinMoney
+import lec04_Operator.JavaMoney
+import lec04_Operator.KotlinMoney
 
 fun main(){
     /*

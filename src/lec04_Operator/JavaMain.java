@@ -1,4 +1,4 @@
-package lec04;
+package lec04_Operator;
 
 public class JavaMain {
     public static void main(String[] args) {

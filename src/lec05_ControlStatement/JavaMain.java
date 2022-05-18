@@ -1,4 +1,4 @@
-package lec05;
+package lec05_ControlStatement;
 
 public class JavaMain {
     public static void main(String[] args) {

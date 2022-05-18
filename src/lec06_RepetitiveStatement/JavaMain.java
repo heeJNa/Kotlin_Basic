@@ -1,4 +1,4 @@
-package lec06;
+package lec06_RepetitiveStatement;
 
 import java.util.Arrays;
 import java.util.List;

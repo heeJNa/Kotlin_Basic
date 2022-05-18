@@ -1,4 +1,4 @@
-package lec07
+package lec07_Exception
 
 import java.io.BufferedReader
 import java.io.File

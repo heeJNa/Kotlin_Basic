@@ -1,4 +1,4 @@
-package lec07;
+package lec07_Exception;
 
 import org.jetbrains.annotations.NotNull;
 
