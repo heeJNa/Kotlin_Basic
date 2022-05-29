@@ -2,7 +2,7 @@ package lec06_RepetitiveStatement
 
 fun main(){
     val numbers = listOf(1L,2L,3L) // 컬렉션 생성
-    // Java에서는 :을 사용하지마 Kotlin에서는 in을 사용
+    // Java에서는 :을 사용하지만 Kotlin에서는 in을 사용
     // Java와 동일하게 Iterable이 구현된 타입이면 in 뒤에 들어갈 수 있다.
     // for-each문
     for (number in numbers){ // number 앞에 type이 없다.
